@@ -2,14 +2,15 @@
 
 ## Following the steps:
 
-1. [Run Server] 
-  1. cd Message-Server
-  2. ./DataServer
 
-2. [Run Simulator] 
-  1. cd Unity-Simulator
-  2. sh run.sh
+1. Run Server
+* cd Message-Server
+* ./DataServer
 
-3. [Run Python Code] 
-  1. cd Python-Wrapper
-  2. python example.py
+2. Run Simulator
+* cd Unity-Simulator
+* sh run.sh
+
+3. Run Python Code
+* cd Python-Wrapper
+* python example.py
